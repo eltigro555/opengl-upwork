@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/exec.dir/main.cpp.o -o exec  libs/glfw/src/libglfw3.a libs/glad/libglad.a libs/assimp/lib/libassimp.a /usr/lib/x86_64-linux-gnu/libGLEW.so -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl libs/assimp/contrib/zlib/libzlibstatic.a -lrt 

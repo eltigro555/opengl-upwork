@@ -1,0 +1,11 @@
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/glew.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/glew_s.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/glewinfo.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/visualinfo.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/uninstall.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/edit_cache.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/rebuild_cache.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/list_install_components.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/install.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/install/local.dir
+/home/eltigro/development/Upwork/OpenGL/project/libs/glew-2.2.0/build/CMakeFiles/install/strip.dir
